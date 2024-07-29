@@ -1,37 +1,37 @@
-# ¡Hola! Soy Juan Esteban 👋
+# Hi! I'm Juan Esteban 👋
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT. Mi pasión por la tecnología y el desarrollo de software me ha llevado a explorar diversas áreas, desde el desarrollo web hasta la telemática.
+I am a Systems Engineering student at EAFIT University. My passion for technology and software development has led me to explore various areas, from web development to telematics.
 
-## Sobre mí
+## About Me
 
-- 📚 **Educación:** Estudiante de Ingeniería de Sistemas en la Universidad EAFIT
-- 💻 **Actualmente aprendiendo:** PHP y desarrollo web
-- 🌱 **Intereses:** Telemática, bases de datos, desarrollo de aplicaciones web, programación backend e inteligencia artificial
-- 🚀 **Proyectos recientes:** Lista de tareas, blog con autenticación y comentarios
+- 📚 **Education:** Systems Engineering student at EAFIT University
+- 💻 **Currently learning:** PHP and web development
+- 🌱 **Interests:** Telematics, databases, web application development, backend programming, and artificial intelligence
+- 🚀 **Recent Projects:** To-Do List, blog with authentication and comments
 
-## Proyectos Destacados
+## Featured Projects
 
-### 📝 Lista de Tareas
-Una aplicación web para gestionar tareas diarias con funcionalidades de agregar, editar y eliminar tareas.
+### 📝 To-Do List
+A web application to manage daily tasks with functionalities to add, edit, and delete tasks.
 
 ### 📰 Blog
-Un blog con autenticación de usuarios, publicación de artículos y sistema de comentarios.
+A blog with user authentication, article publishing, and commenting system.
 
-## Contacto
+## Contact
 
 - 📧 juanestebangarciagalvis@gmail.com
-- 🔗 https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-galvis-82b318234/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-galvis-82b318234/)
 
-## Habilidades
+## Skills
 
-- **Lenguajes de Programación:** PHP, JavaScript, HTML, CSS
-- **Bases de Datos:** MySQL, PostgreSQL
-- **Herramientas y Tecnologías:** Git, GitHub, Visual Studio Code
+- **Programming Languages:** PHP, JavaScript, HTML, CSS
+- **Databases:** MySQL, PostgreSQL
+- **Tools and Technologies:** Git, GitHub, Visual Studio Code
 
-## Otros Intereses
+## Other Interests
 
-Fuera del mundo de la programación, me gusta ir al gimnasio y participar en otras actividades físicas.
+Outside of the programming world, I enjoy going to the gym and participating in other physical activities.
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y ponerte en contacto si quieres colaborar.
+Thank you for visiting my profile! Feel free to explore my projects and get in touch if you want to collaborate.
